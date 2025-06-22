@@ -1,4 +1,4 @@
-# Message SPAM Detector using Logistic Regression and Naive Bayes Model
+# SPAM Messages Detector Using Logistic Regression and Naive Bayes Model
 Hello Angelina here,
 This past week I've been working on a project that is detecting spam messages through big data. I've used the Logistic regression to detect the difference in the messages. The messages are named as "spam" for the spam messages and "ham" for the unidentified, not spam or missing data messages. 
 I will explain the project as a whole in details, just so I can visualize the project better. 
