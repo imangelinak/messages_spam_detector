@@ -37,4 +37,3 @@ After finding out which words are a red flag, the last thing I was supposed to d
 After coding the model, I had to check how accurate it is and if it is performing well. It turned out the model is almost 88% accurate which is considered a well score overall, but can be causing some bugs depending on the data. The problem is probably coming from some of the data not being processed.
 After finding out how well is our model performing, I extracted a sample with few of the text messages that are detecting the "spam" words from the horizontal bar graph before.
 
-# Conclusion 
